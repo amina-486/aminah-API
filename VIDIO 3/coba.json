@@ -14,13 +14,13 @@
         }
     },
     {
-        "nama": "nur aminah",
+        "nama": "anita",
         "umur": 21,
-        "nrp": "2217020069",
+        "nrp": "2217020046",
         "lulus": true,
         "hobby": [
-            "rebahan",
-            "membaca"
+            "menyanyi",
+            "menari"
         ],
         "pembimbing": {
             "pembimbing1": "Ahmad Fauzi",

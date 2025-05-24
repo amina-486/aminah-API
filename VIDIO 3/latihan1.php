@@ -2,7 +2,7 @@
 
 // $mahasiswa = [
 //     [
-//         "nama" => "Sandhika Galih",
+//         "nama" => "Nur Aminah",
 //         "nrp" => "043040023",
 //         "email" => "sandhikagalih@unpas.ac.id"
 //     ],
