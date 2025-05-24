@@ -3,17 +3,17 @@
 // $mahasiswa = [
 //     [
 //         "nama" => "Nur Aminah",
-//         "nrp" => "043040023",
-//         "email" => "sandhikagalih@unpas.ac.id"
+//         "nim" => "2217020069",
+//         "email" => "amina020103@gmail.com"
 //     ],
 //     [
-//         "nama" => "Erik Doank",
-//         "nrp" => "023040001",
-//         "email" => "erik@gmail.com"
+//         "nama" => "Anita",
+//         "nim" => "2217020046",
+//         "email" => "anitavaa@gmail.com"
 //     ]
 // ];
 
-$dbh = new PDO('mysql:host=localhost;dbname=phpdasar', 'root', 'root');
+$dbh = new PDO('mysql:host=localhost;dbname=rest iap', 'root', '');
 $db = $dbh->prepare('SELECT * FROM mahasiswa');
 $db->execute();
 $mahasiswa = $db->fetchAll(PDO::FETCH_ASSOC);
