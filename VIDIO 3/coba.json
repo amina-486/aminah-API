@@ -6,25 +6,25 @@
         "lulus": true,
         "hobby": [
             "rebahan",
-            "gaming"
+            "membaca"
         ],
         "pembimbing": {
-            "pembimbing1": "Doddy Ferdiansyah",
-            "pembimbing2": "Erik Doank"
+            "pembimbing1": "Ahmad Fauzi",
+            "pembimbing2": "Haditya Prasetyo"
         }
     },
     {
-        "nama": "Sandhika",
-        "umur": 32,
-        "nrp": "043040023",
+        "nama": "nur aminah",
+        "umur": 21,
+        "nrp": "2217020069",
         "lulus": true,
         "hobby": [
-            "coding",
-            "gaming"
+            "rebahan",
+            "membaca"
         ],
         "pembimbing": {
-            "pembimbing1": "Doddy Ferdiansyah",
-            "pembimbing2": "Erik Doank"
+            "pembimbing1": "Ahmad Fauzi",
+            "pembimbing2": "Haditya Prasetyo"
         }
     }
 ]
